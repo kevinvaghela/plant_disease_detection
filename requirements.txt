@@ -8,12 +8,7 @@ python-dateutil
 pytz
 requests
 requests-oauthlib
-rsa
-six
-tensorboard
-tensorboard-data-server
-tensorboard-plugin-wit
-tensorflow
+tensorflow-cpu
 tensorflow-estimator
 urllib3
 Werkzeug
